@@ -40,7 +40,7 @@ Add regex filtering to commands
 
 Improve net manager to not make requests instead of sending them to localhost
 
-Make the commands not load the illya pfp from network and load it locally instead
+Make the commands not load the Nuro pfp from network and load it locally instead
 
 Add documentation
 
