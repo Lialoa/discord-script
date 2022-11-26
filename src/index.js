@@ -36,7 +36,7 @@ class DiscordManager {
 	}
 	run(hook) {
 		let key = [`$hook.${window.lastHook++}`];
-		(window.webpackJsonp = window.webpackJsonp || [])
+		(window.webpackChunkdiscord_app = window.webpackChunkdiscord_app || [])
 		.push([
 			[key], {
 				[key]: hook
